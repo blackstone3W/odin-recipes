@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+}
+
+.heading1 {
+
+    color: red;
+    background-color: lightgreen;
+    font-size: 28px;    
+    font-weight: 800;
+    text-align: center;
+}
+
+.list-center {
+    font-size: 18px;
+    text-align: center;
+}
+
+.list-item {
+color: red;
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+.image {
+    height: auto;
+    width: 500;
+}
+
+
+
